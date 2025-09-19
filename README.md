@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/spyrux/leetcode2/tree/master/0057-insert-interval) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Math
