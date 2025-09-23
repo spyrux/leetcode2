@@ -16,7 +16,6 @@ class Solution:
             return None
         queue = [node]
         node_map = {}
-        out_map = {}
         in_map = {}
 
         while queue:
@@ -33,6 +32,7 @@ class Solution:
                         in_map[neighbor.val] = [curr.val]
                     if neighbor.val not in node_map:    
                         queue.append(neighbor)
+
         for key, value in in_map.items():
             curr = key
             for edge in value:
