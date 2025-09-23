@@ -16,27 +16,17 @@ class Solution:
             return None
         queue = [node]
         node_map = {}
-        in_map = {}
 
         while queue:
             curr = queue.pop(0)
-            #already visited this node
-            if not curr or curr.val in node_map:
-                continue
-            else:
-                node_map[curr.val] = Node(val = curr.val)
-                for neighbor in curr.neighbors:
-                    if neighbor.val in in_map:
-                        in_map[neighbor.val].append(curr.val)
-                    else:
-                        in_map[neighbor.val] = [curr.val]
-                    if neighbor.val not in node_map:    
-                        queue.append(neighbor)
+            if curr.val not in node_map:
+                node_map[curr.val] = Node(curr.val,[])
+            for neighbor in curr.neighbors:
+                if neighbor.val not in node_map:
+                    node_map[neighbor.val] = Node(neighbor.val, [])
+                    queue.append(neighbor)
+                node_map[curr.val].neighbors.append(node_map[neighbor.val])
 
-        for key, value in in_map.items():
-            curr = key
-            for edge in value:
-                node_map[curr].neighbors.append(node_map[edge])
         
         return node_map[node.val]
 
