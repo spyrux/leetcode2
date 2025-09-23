@@ -33,8 +33,6 @@ class Solution:
                         in_map[neighbor.val] = [curr.val]
                     if neighbor.val not in node_map:    
                         queue.append(neighbor)
-        
-        print(node_map)
         for key, value in in_map.items():
             curr = key
             for edge in value:
