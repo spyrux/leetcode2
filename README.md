@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
+| [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## Trie
 |  |
 | ------- |
