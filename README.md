@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spyrux/leetcode2/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/spyrux/leetcode2/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/spyrux/leetcode2/tree/master/0543-diameter-of-binary-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,8 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
+## Data Stream
+|  |
+| ------- |
+| [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 <!---LeetCode Topics End-->
