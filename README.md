@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/spyrux/leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/spyrux/leetcode2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/spyrux/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
