@@ -6,7 +6,7 @@ class FrequencyTracker:
     def _move(self, number, old_freq, new_freq):
         """Helper to move number from one freq set to another."""
         if old_freq > 0:
-            self.freq_map[old_freq].discard(number)
+            self.freq_map[old_freq].remove(number)
             if not self.freq_map[old_freq]:      # cleanup empty set
                 del self.freq_map[old_freq]
 
