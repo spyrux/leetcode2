@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spyrux/leetcode2/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/spyrux/leetcode2/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/spyrux/leetcode2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/spyrux/leetcode2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/spyrux/leetcode2/tree/master/0543-diameter-of-binary-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
