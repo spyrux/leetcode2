@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Math
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## String
 |  |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
+| [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 <!---LeetCode Topics End-->
