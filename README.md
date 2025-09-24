@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/spyrux/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/spyrux/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/spyrux/leetcode2/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
