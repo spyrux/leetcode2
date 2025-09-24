@@ -11,8 +11,9 @@ class Solution:
         #find parent root recursively
         def find(i):
             if parents[i]!= i:
-                parents[i] = find(parents[i])
-            return parents[i]
+                 return find(parents[i])
+            else:
+                return parents[i]
         
         def union(i, j):
             nonlocal count
@@ -23,6 +24,7 @@ class Solution:
                 count -= 1
         
         for y, x  in positions:
+            #y*width of row + row offset for flattening
             flat = (y*n)+x
             if (y,x) in land:
                 res.append(count)
