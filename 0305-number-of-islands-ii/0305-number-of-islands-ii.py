@@ -20,7 +20,7 @@ class Solution:
             ra = find(i)
             rb = find(j)
             if ra!=rb:
-                parents[ra] = j
+                parents[ra] = rb
                 count -= 1
         
         for y, x  in positions:
