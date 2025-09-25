@@ -2,7 +2,6 @@ class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         minutes = 0
         fresh = set()
-        seen = set()
         queue = []
         length = len(grid)
         width = len(grid[0])
@@ -24,11 +23,11 @@ class Solution:
             print(y,x,minute)
             minutes = minute
             for dy, dx in dirs:
-                if 0 <= y+dy < length and 0 <= x+dx < width and grid[y+dy][x+dx] == 1 and (y+dy,x+dx) not in seen:
+                if 0 <= y+dy < length and 0 <= x+dx < width and grid[y+dy][x+dx] == 1 and (y+dy,x+dx) in fresh:
                     queue.append((y+dy,x+dx, minute+1))
-                    seen.add((y+dy,x+dx))
+                    fresh.remove((y+dy,x+dx))
 
-        if seen!=fresh:
+        if len(fresh)>0:
             return -1
 
         return minutes 
