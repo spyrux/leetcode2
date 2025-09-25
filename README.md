@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
+| [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/spyrux/leetcode2/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 | [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 ## Graph
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/spyrux/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
