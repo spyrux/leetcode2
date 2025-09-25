@@ -17,7 +17,6 @@ class Solution:
                 if counts[s[i]]==0:
                     counts.pop(s[i]) 
 
-        print(counts)
 
         
 
