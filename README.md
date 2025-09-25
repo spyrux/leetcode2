@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/spyrux/leetcode2/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/spyrux/leetcode2/tree/master/0242-valid-anagram) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/spyrux/leetcode2/tree/master/0242-valid-anagram) |
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 | [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/spyrux/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/spyrux/leetcode2/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/spyrux/leetcode2/tree/master/0242-valid-anagram) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 ## Tree
 |  |
