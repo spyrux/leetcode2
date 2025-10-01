@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/spyrux/leetcode2/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/spyrux/leetcode2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/spyrux/leetcode2/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/spyrux/leetcode2/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/spyrux/leetcode2/tree/master/0056-merge-intervals) |
@@ -182,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/spyrux/leetcode2/tree/master/0033-search-in-rotated-sorted-array) |
 | [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
