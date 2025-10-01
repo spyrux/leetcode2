@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/spyrux/leetcode2/tree/master/0062-unique-paths) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/spyrux/leetcode2/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/spyrux/leetcode2/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/spyrux/leetcode2/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/spyrux/leetcode2/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
