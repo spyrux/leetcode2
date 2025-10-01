@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/spyrux/leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/spyrux/leetcode2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/spyrux/leetcode2/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/spyrux/leetcode2/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/spyrux/leetcode2/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/spyrux/leetcode2/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
 | [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/spyrux/leetcode2/tree/master/0033-search-in-rotated-sorted-array) |
 | [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/spyrux/leetcode2/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/spyrux/leetcode2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
