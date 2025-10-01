@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/spyrux/leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/spyrux/leetcode2/tree/master/0550-shortest-path-to-get-food) |
 | [1014-k-closest-points-to-origin](https://github.com/spyrux/leetcode2/tree/master/1014-k-closest-points-to-origin) |
 | [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/spyrux/leetcode2/tree/master/1036-rotting-oranges) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/spyrux/leetcode2/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/spyrux/leetcode2/tree/master/0550-shortest-path-to-get-food) |
 | [1036-rotting-oranges](https://github.com/spyrux/leetcode2/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/spyrux/leetcode2/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/spyrux/leetcode2/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/spyrux/leetcode2/tree/master/0550-shortest-path-to-get-food) |
 | [1036-rotting-oranges](https://github.com/spyrux/leetcode2/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
