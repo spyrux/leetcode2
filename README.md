@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/spyrux/leetcode2/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/spyrux/leetcode2/tree/master/0242-valid-anagram) |
 | [0305-number-of-islands-ii](https://github.com/spyrux/leetcode2/tree/master/0305-number-of-islands-ii) |
+| [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/spyrux/leetcode2/tree/master/1034-subarrays-with-k-different-integers) |
 | [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## String
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/spyrux/leetcode2/tree/master/0242-valid-anagram) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
+| [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/spyrux/leetcode2/tree/master/0208-implement-trie-prefix-tree) |
 | [0642-design-search-autocomplete-system](https://github.com/spyrux/leetcode2/tree/master/0642-design-search-autocomplete-system) |
+| [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
 | [2778-frequency-tracker](https://github.com/spyrux/leetcode2/tree/master/2778-frequency-tracker) |
 ## Trie
 |  |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/spyrux/leetcode2/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/spyrux/leetcode2/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
